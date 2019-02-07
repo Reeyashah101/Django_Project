@@ -16,7 +16,7 @@ We also have a adminstrative section where the admin can perform all the adminst
   <br> <hr>
   For The admin Section: type The url:  http://localhost:8000/admin <p>
   </p>
-username:Nishant
+username:Nishant <br>
 password:django321  
 
    This is a Superuser ..
