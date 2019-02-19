@@ -1,5 +1,5 @@
 # Django_Project
-Python Mini Twitter 
+Python Mini Twitter.
 <hr>
 This is a Mini Twitter Based Project on <Strong> Django </strong> where a person visiting a Website can create an account login and post.
 <p>
