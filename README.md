@@ -19,7 +19,7 @@ We also have a adminstrative section where the admin can perform all the adminst
 username:Nishant <br>
 password:django321  
 
-   This is a Superuser ...
+   This is a Superuser .....
 
 
   
